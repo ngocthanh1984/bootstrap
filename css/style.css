@@ -1,35 +1,20 @@
-.img-logo{
-    max-width: 140px;
-    max-height: 100px;
+.hero-section {
+        background: url(/Images/cualo.jpeg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 80vh;
+        }
+.card-img-custom {
+  height: 200px;         
+  width: 100%;           
+  object-fit: cover;     
+  object-position: center; 
 }
-.img-logo1{
-    max-width: 100px;
-    max-height: 60px;
-}
-.text-nav .nav-link{
-    color: #ffffff !important;
-}
-.img-gt{
-    max-width: 50px;
-    height: auto;
-}
-.card-img-top {
-    height: 200px;
-    object-fit: cover;
+.text-star {
+    color: rgb(12, 176, 126);
 }
 ul.list-unstyled a {
   color: inherit;
   text-decoration: none;
 }
-ul.list-unstyled a:hover {
-    color: #ffc107;
-}
-.img-gv{
-    width: 120px;
-    height: 120px;
-    object-fit: cover;
-}
-.circle-check {
-    color: #f9bb03;
-}
-

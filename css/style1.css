@@ -1,5 +1,5 @@
 .hero-section {
-        background-image: url(../Images/cualo.jpeg);
+        background-image: url('../Images/cualo.jpeg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
